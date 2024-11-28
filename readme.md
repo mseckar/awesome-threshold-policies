@@ -1,30 +1,30 @@
 # Awesome Threshold Policies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome Threshold Policies
-
+> A curated list of awesome configurations of threshold signature schemes.
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Awesome Threshold Policies ](#awesome-threshold-policies-)
+  - [Contents](#contents)
+  - [About](#about)
+  - [Threshold Policies](#threshold-policies)
+  - [Contribute](#contribute)
 
 
-## Section
+## About
 
-About this section. Optional. Keep this short and focus on the list.
+This list should contain known policies that are either currently in use or can be considered interesting - therefore awesome.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Threshold Policies
 
 
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+| Policy | Description | Miniscript | Source |
+|---------------|---------------------|-------------|---------------|
+| 1-out-of-n      | One member must agree on a signature          | thresh(1, pk(a), pk(b), pk(c), ... , pk(n))        | [common](http://example.com)             |
+| n-out-of-n      | All parties must agree on a signature          | thresh(n, pk(a), pk(b), pk(c), ... , pk(n))        | [common](http://example.com)             |
+| k-out-of-n      | Basic multi-party signature with a threshold k         | thresh(k, pk(a), pk(b), pk(c), ... , pk(n))        | [common](http://example.com)             |
+| 2-out-of-3      | Escrow between two parties        | thresh(2, pk(a), pk(b), pk(c))        | [common](http://example.com)             |
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
