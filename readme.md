@@ -20,10 +20,11 @@ This list should contain known policies that are either currently in use or can 
 
 | Policy | Description | Miniscript | Source |
 |---------------|---------------------|-------------|---------------|
-| 1-out-of-n      | One member must agree on a signature          | thresh(1, pk(a), pk(b), pk(c), ... , pk(n))        | [common](http://example.com)             |
-| n-out-of-n      | All parties must agree on a signature          | thresh(n, pk(a), pk(b), pk(c), ... , pk(n))        | [common](http://example.com)             |
-| k-out-of-n      | Basic multi-party signature with a threshold k         | thresh(k, pk(a), pk(b), pk(c), ... , pk(n))        | [common](http://example.com)             |
-| 2-out-of-3      | Escrow between two parties        | thresh(2, pk(a), pk(b), pk(c))        | [common](http://example.com)             |
+| 1-out-of-n      | One member must agree on a signature| thresh(1, pk(a), pk(b), pk(c), ... , pk(n))| [common](http://example.com)|
+| n-out-of-n      | All parties must agree on a signature| thresh(n, pk(a), pk(b), pk(c), ... , pk(n))| [common](http://example.com)|
+| k-out-of-n      | Basic multi-party signature with a threshold k| thresh(k, pk(a), pk(b), pk(c), ... , pk(n))| [common](http://example.com)|
+| 2-out-of-3      | Escrow between two parties| thresh(2, pk(a), pk(b), pk(c))| [common](http://example.com)|
+
 
 ## Contribute
 
