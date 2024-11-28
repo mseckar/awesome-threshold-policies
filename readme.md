@@ -4,9 +4,7 @@
 
 ## Contents
 
-- [Awesome Threshold Policies](#awesome-threshold-policies)
-  - [Contents](#contents)
-  - [About](#about)
+- [Awesome Threshold Policies](#about)
   - [Threshold Policies](#threshold-policies)
   - [Contribute](#contribute)
 
