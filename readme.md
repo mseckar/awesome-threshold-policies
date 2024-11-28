@@ -4,17 +4,15 @@
 
 ## Contents
 
-- [Awesome Threshold Policies](#about)
-  - [Threshold Policies](#threshold-policies)
-  - [Contribute](#contribute)
-
+- [About](#about)
+- [Threshold Policies](#threshold-policies)
+- [Contribute](#contribute)
 
 ## About
 
 This list should contain known policies that are either currently in use or can be considered interesting - therefore awesome.
 
 ## Threshold Policies
-
 
 | Policy | Description | Miniscript | Source |
 |---------------|---------------------|-------------|---------------|
