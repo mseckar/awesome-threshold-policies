@@ -21,7 +21,7 @@ This list should contain known policies that are either currently in use or can 
 | k-out-of-n | Basic multi-party signature with a threshold k | thresh(k, pk(a), pk(b), pk(c), . , pk(n))| common |
 | 2-out-of-3 | Escrow between two parties | thresh(2, pk(a), pk(b), pk(c))| common |
 | 2-out-of-2 with timelock into 2-out-of-2 | 2-of-2 escrow between two parties A and B. After timelock expires, another 2-of-2 escrow between A and C is valid. Protects party A against key loss or non-cooperativity of party B. | ? | ? |
-
+| 11-out-of-15 | Bitcoin Liquid Federation threshold for signing valid blocks | ? | [Blockstream Liquid whitepaper](https://blockstream.com/assets/downloads/pdf/liquid-whitepaper.pdf) |
 
 ## Contribute
 
